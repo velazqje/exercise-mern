@@ -15,8 +15,8 @@ The following required functionality is completed:
 
 The following optional features are implemented:
 
- List anything else that you can get done to improve the app functionality!
- In the future, I'd like to add sorting options to the table component.
- 
+
+The following features can be made to improve the app functionality:
+- The addition of sorting options to the table component.
  
  <img src='exercise-mern.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
