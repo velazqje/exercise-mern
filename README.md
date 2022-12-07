@@ -18,5 +18,7 @@ The following optional features are implemented:
 
 The following features can be made to improve the app functionality:
 - The addition of sorting options to the table component.
+- Instead of the window alert, an alert that is integrated into the table.
+- A confirmation before deleting the workout.
  
  <img src='exercise-mern.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
